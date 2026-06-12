@@ -3,7 +3,7 @@ i am currently working on my college life :)<br>i am currently learning c++<br>i
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nova_playez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sulav raj dhakal) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/novaplayez) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Novaplayez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:082bct045.sulav@sagarmatha.edu.np) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nova_playez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sulav raj dhakal) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/novaplayez) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Novaplayez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:082bct045.sulav@sagarmatha.edu.np) [![Itch.io](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=for-the-badge&logo=Imgur&logoColor=white)](https://novaplayez.itch.io/)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

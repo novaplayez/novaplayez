@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on my college life :)<br>i am currently learning c++<br>i am looking to collabrate on some projects related to c++<br>i am looking help with python and c++<br>you can reach me with my college email which is in my account description<br>he/him<br>i am really good at fps game?
+i am currently working on my college life :)<br>i am currently learning c++<br>i am looking to collabrate on some projects related to c++<br>i am looking help with python and c++<br>you can reach me with my college email which is in my Socials<br>he/him<br>i am really good at fps game?
 
 
 ## 🌐 Socials:

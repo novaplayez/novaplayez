@@ -46,7 +46,7 @@ I a m a BCT student who loves game development and i also do love challenges whi
   <a href="https://instagram.com/nova_playez" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://youtube.com/@Novaplayez" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.pinterest.com/sulavgaming070/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
-  <a herf="https://novaplayez.itch.io/" target="_blank" rel="noopener noreferrer"><img scr="https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=for-the-badge&logo=Imgur&logoColor=white" alt="Itch.io"/></a>
+ <a href="https://novaplayez.itch.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch-dot-io&logoColor=white" alt="Itch.io"/></a>
 </p>
 
 

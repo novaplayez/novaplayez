@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I a m a BCT student who loves game development and i also do love challenges which life throws at me ig?😊
+I am a BCT student who loves game development and i also do love challenges which life throws at me (i mean i think so i tackel it?😐)
 
 🔭 &nbsp;I'm currently working on **Unity**  
 🌱 &nbsp;I'm currently learning **C#**  
